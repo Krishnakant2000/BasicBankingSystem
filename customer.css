@@ -1,0 +1,32 @@
+.navbar-nav{
+    font-family:'Oxygen',sans-serif;
+    text-decoration:rgb(215, 51, 237);
+    font-weight: bold;
+  }
+  #nav-bar
+  {
+      background-color:#1ac7b0;
+      position:static;
+      top:0;
+      z-index:10;
+  }
+  .nav-link:hover {
+      background-image: url('F:\The Sparks Foundation Internship\GRIP TASK_1\bank.jpg');
+  }
+  .nav-link {
+      font-family:'Oxygen',sans-serif;
+  }
+  a{
+      color:rgb(241, 230, 20);
+  }
+  section {
+    display: block;
+    background-color: #9fab1b;
+}
+.navbar {
+    z-index: 1;
+    border: 0;
+    background-color: #ffb2f9;
+    border-radius: 0;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+}
